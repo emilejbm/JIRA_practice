@@ -1,1 +1,3 @@
 Example text file for Epic #1
+
+Edit #1 going to have commit message JP-4 
